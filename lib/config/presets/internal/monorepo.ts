@@ -146,7 +146,7 @@ const repoGroups = {
   Steeltoe: 'https://github.com/SteeltoeOSS/steeltoe',
   storybook: 'https://github.com/storybookjs/storybook',
   strapi: 'https://github.com/strapi/strapi',
-  stryker: 'https://github.com/stryker-mutator/stryker',
+  stryker: 'https://github.com/stryker-mutator/stryker-js',
   surveyjs: 'https://github.com/surveyjs/surveyjs',
   Swashbuckle: 'https://github.com/domaindrivendev/Swashbuckle.AspNetCore',
   treat: 'https://github.com/seek-oss/treat',
